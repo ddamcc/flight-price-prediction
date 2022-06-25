@@ -16,7 +16,7 @@ We have a data set of flight fares in two Excel files, one is a training file an
 
 
 <h1>Model Used</h1>
-Here i have used a **Regression Algorithm** called **Random Forest** and a model is called a **Random Forest Regressor** 
+Here I have used a **Regression Algorithm** called **Random Forest** and a model is called a **Random Forest Regressor** 
 
 <hr>
 
