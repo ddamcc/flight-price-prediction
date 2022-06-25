@@ -26,9 +26,11 @@ Here i have used a **Regression Algorithm** called **Random Forest** and a model
 
 <h3>Home Page</h3>
 
-![flight](https://user-images.githubusercontent.com/76621987/175784173-941cce21-df9c-4cae-b2da-d3511f7439dd.PNG)
+![Screenshot (1351)](https://user-images.githubusercontent.com/76621987/175784174-20c71ea5-e77a-4977-903a-83dba3783483.png)
+
 
 <h3>Predicted Price</h3>
 
-![Screenshot (1351)](https://user-images.githubusercontent.com/76621987/175784174-20c71ea5-e77a-4977-903a-83dba3783483.png)
+![flight](https://user-images.githubusercontent.com/76621987/175784173-941cce21-df9c-4cae-b2da-d3511f7439dd.PNG)
+
 
