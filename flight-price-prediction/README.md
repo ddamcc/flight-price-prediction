@@ -1,4 +1,4 @@
-<h1>Flight-Fare-Prediction-using-Machine-Learning</h1>
+<h1>Flight-Price-Prediction-using-Machine-Learning</h1>
 
 <hr>
 
