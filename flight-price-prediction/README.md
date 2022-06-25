@@ -20,3 +20,5 @@ Here i have used a **Regression Algorithm** called **Random Forest** and a model
 
 <hr>
 
+
+<h1>Output</h1>
