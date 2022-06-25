@@ -22,3 +22,4 @@ Here i have used a **Regression Algorithm** called **Random Forest** and a model
 
 
 <h1>Output</h1>
+![flight1](https://user-images.githubusercontent.com/76621987/175783918-1febc6fe-e1b1-483d-86f4-512bc08bf79f.png)
