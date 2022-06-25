@@ -24,7 +24,7 @@ Here i have used a **Regression Algorithm** called **Random Forest** and a model
 <h1>Output</h1>
 
 <h3>Home Page</h3>
-![flight1](https://user-images.githubusercontent.com/76621987/175783958-3f68446d-446e-4890-8bb9-1c4bb399a7a4.png)
+
 
 <h3>Predicted Price</h3>
 
