@@ -1,36 +1,57 @@
-<h1>Flight-Price-Prediction-using-Machine-Learning</h1>
+# ✈️ Flight Price Prediction using Machine Learning
 
-<hr>
+## 📌 Problem Statement  
+The goal of this project is to **predict flight prices** based on several features such as airline, source, destination, duration, and more. This is a **regression problem**, where the model learns to estimate the flight fare based on historical data.
 
+---
 
-<h1>Problem Statement</h1>
-Predict the flight price for the given dataset on the basis of various features present in the form of columns in the excel file.
+## 📊 About the Dataset  
+The dataset consists of flight details and their corresponding fares. It is split into two files:
 
-<hr>
+- **Training Data**:  
+  - Rows: 10,682  
+  - Columns: 11  
+- **Testing Data**:  
+  - Rows: 2,671  
+  - Columns: 10 (excluding the target column)
 
+These files contain features such as airline name, source, destination, date of journey, duration, total stops, etc., which influence the flight fare.
 
-<h1>About dataset:</h1>
-We have a data set of flight fares in two Excel files, one is a training file and another one is a testing file. Training dataset contains 10682 rows and 11 columns. Test dataset contains 2671 rows and 10 columns.
+---
 
-<hr>
+## 🤖 Model Used  
+We use the **Random Forest Regressor**, a powerful ensemble learning method based on decision trees, well-suited for handling non-linear relationships and mixed data types.
 
+- **Algorithm**: Random Forest  
+- **Model Type**: Regression  
+- **Library**: scikit-learn
 
-<h1>Model Used</h1>
-Here I have used a **Regression Algorithm** called **Random Forest** and a model is called a **Random Forest Regressor** 
+---
 
-<hr>
+## 🚀 Workflow  
+1. Load and preprocess the data (handle missing values, encode categorical features, feature engineering).
+2. Train the **Random Forest Regressor** on the training dataset.
+3. Predict the flight price on unseen/test data.
+4. Build a simple UI to allow users to enter flight details and view the predicted price.
 
+---
 
-<h1>Output</h1>
+## ✅ Output Examples  
 
+### 🏠 Home Page  
+![Home Page](https://user-images.githubusercontent.com/76621987/175784174-20c71ea5-e77a-4977-903a-83dba3783483.png)
 
-<h3>Home Page</h3>
+---
 
-![Screenshot (1351)](https://user-images.githubusercontent.com/76621987/175784174-20c71ea5-e77a-4977-903a-83dba3783483.png)
+### 💰 Predicted Flight Price  
+![Predicted Price](https://user-images.githubusercontent.com/76621987/175784173-941cce21-df9c-4cae-b2da-d3511f7439dd.PNG)
 
+---
 
-<h3>Predicted Price</h3>
-
-![flight](https://user-images.githubusercontent.com/76621987/175784173-941cce21-df9c-4cae-b2da-d3511f7439dd.PNG)
-
-
+## 🧰 Tech Stack  
+- Python  
+- Pandas  
+- NumPy  
+- scikit-learn  
+- Streamlit (for web UI)  
+- Matplotlib / Seaborn (for EDA)
